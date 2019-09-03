@@ -1,2 +1,2 @@
 # SectionRecyclerView
-Sample Code For Section Based RecyclerView
+Code for Section Based RecycleView. 
